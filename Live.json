@@ -78,13 +78,13 @@
     "Link": [
   {
    "Name": "Soco [ FHD ]",
-   "Referee": "",
+   "Referee": "https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1708892230-0-0-166d85b8f0bf72790bb60e6d8aa906ab",
    "Link": "0"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1708891812-0-0-4fc334849b73516aeba442fef11c71a8"
   },
   {
    "Name": "English [ FHD ]",
@@ -99,12 +99,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1708892230-0-0-166d85b8f0bf72790bb60e6d8aa906ab"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1708891812-0-0-4fc334849b73516aeba442fef11c71a8"
   },
   {
    "Name": "English [ HD ]",
@@ -154,32 +154,32 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=71ad149362902e08229fb978f3ec9873&txTime=65dbe5e2"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1708891391-0-0-96d6170dec5768e9ac0ed2061bcb17b8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://v1.nbastreams100.io/play2.php",
+   "Link": "https://v1.nbastreams100.io/index-4.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
-   "Referee": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=a84dd85316c7b6be28a4abef815527bd&txTime=65dbd7d2",
+   "Referee": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1708892050-0-0-e629efebad4630fe8edd8c2381271292",
    "Link": "0"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=a84dd85316c7b6be28a4abef815527bd&txTime=65dbd7d"
   },
   {
    "Name": "English [ HD ]",
@@ -188,13 +188,13 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://cdn3.reels2watch.com/hls/s1.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovosssssssss.lol/live/n-4/chunks.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -209,7 +209,7 @@
              ],
     "HomeImage": "https://i.ibb.co/YpGpV2N/download-57.png",
     "HomeName": "Milan",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
@@ -235,7 +235,7 @@
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-676985_lhd.flv?aulth_key=1708888452-0-0-3cc1cea9a84e25b5a50cddf0a2147cab"
+   "Link": "https://pull.juqihuo.com/live/stream-676985_lhd.m3u8?aulth_key=1708888452-0-0-3cc1cea9a84e25b5a50cddf0a2147cab"
   },
   {
    "Name": "English [ FHD ]",
@@ -306,12 +306,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=71ad149362902e08229fb978f3ec9873&txTime=65dbe5e2"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-564408_lhd.m3u8?auth_key=1708891392-0-0-0c9720cdda53e6ce181861a8004f6890"
   },
   {
    "Name": "English [ FHD ]",
@@ -320,18 +320,18 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://cdn3.reels2watch.com/hls/s6.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=71ad149362902e08229fb978f3ec9873&txTime=65dbe5e2"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-564408_lsd.m3u8?auth_key=1708891392-0-0-0c9720cdda53e6ce181861a8004f6890"
   },
   {
    "Name": "English [ HD ]",
@@ -361,7 +361,7 @@
              ],
     "HomeImage": "https://i.ibb.co/zNhmF1y/download-70.png",
     "HomeName": "Marseille",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
