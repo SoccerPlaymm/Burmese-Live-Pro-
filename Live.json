@@ -88,47 +88,47 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=5bf63d6211a1723b6f9f98f0422a51df&txTime=65dba5e6"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708875612-0-0-fcffd05ff751fecbef8ecb7629c2a19c"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://bestsolaris.com/",
+   "Link": "https://fqxyiw42.azureedge.net/live/SuperSportPremier/playlist.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://bongsports.stream/",
+   "Link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-74/z4ar-vh9q_720p/chunklist_DVR.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=5bf63d6211a1723b6f9f98f0422a51df&txTime=65dba5e6"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708875612-0-0-fcffd05ff751fecbef8ecb7629c2a19c"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovosssss.lol/live/n-2/chunks.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
+   "Referee": "",
+   "Link": "https://hls.streambtw.com/live/stream_2.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -143,7 +143,7 @@
              ],
     "HomeImage": "https://i.ibb.co/MMN9Rw5/download.png",
     "HomeName": "Chelsea",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:30 PM"
   }
      
