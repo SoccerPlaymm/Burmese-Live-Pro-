@@ -315,12 +315,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://v1.nbastreams100.io/index-4.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://nflarcadia.xyz/hls/s1.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -339,8 +339,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -360,7 +360,7 @@
              ],
     "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
     "HomeName": "Lecce",
-    "isLive": false,
+    "isLive": true,
     "Time": "11:30 PM"
   },
   {
@@ -439,72 +439,6 @@
  "data" : [
     
  
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
-    "AwayName": "Wolfsburg",
-    "Date": "Feb 25",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1708873510-0-0-0c41952fcea51dc3c4a103fdc5dd7755"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1708873392-0-0-7e093a5f2be4c45bfaadba80d9fe2f69"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://shora-streams.com/chunklist/hlsch17.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI0IDI6MDI6MjAgUE0maGFzaF92YWx1ZT1uOFZmY3VwWSsybXkzcmxNUEhOcEJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuMTQ3JnN0cm1fbGVuPTU="
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1708873510-0-0-0c41952fcea51dc3c4a103fdc5dd7755"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1708873392-0-0-7e093a5f2be4c45bfaadba80d9fe2f69"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_9.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/PhsdbQP/download-68.png",
-    "HomeName": "Eintracht Frankfurt",
-    "isLive": true,
-    "Time": "9:00 PM"
-  },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
     "AwayName": "Hoffenheim",
