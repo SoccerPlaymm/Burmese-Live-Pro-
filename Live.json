@@ -22,13 +22,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://v1.nbastreams100.io/play2.php",
+   "Link": "https://v1.nbastreams100.io/index-3.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
@@ -47,8 +47,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://cdn3.reels2watch.com/hls/s3.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/N27SsT5/download-35.png",
     "HomeName": "Real Madrid",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
