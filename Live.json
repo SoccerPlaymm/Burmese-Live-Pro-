@@ -91,72 +91,6 @@
  "data" : [
     
   {
-    "AwayImage": "https://i.ibb.co/8KWFTPM/download-31.png",
-    "AwayName": "Athletic Club",
-    "Date": "Feb 25",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1708876930-0-0-a555304b395cb968f2d2094feb1b7464"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-657160_lhd.m3u8?auth_key=1708876872-0-0-edff625dbea221e32d6ab8b92f5d90f4"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1708876930-0-0-a555304b395cb968f2d2094feb1b7464"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-657160_lsd.m3u8?auth_key=1708876872-0-0-edff625dbea221e32d6ab8b92f5d90f4"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/1mg68jB/download-24.png",
-    "HomeName": "Real Betis",
-    "isLive": true,
-    "Time": "9:45 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
     "AwayName": "Osasuna",
     "Date": "Feb 26",
@@ -164,12 +98,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1708884910-0-0-0bc2a87389c745b5aa1524c375ec1b07"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1708884852-0-0-7ffc41063991b81e49042a475a35b4df"
   },
   {
    "Name": "English [ FHD ]",
@@ -178,18 +112,18 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://reels2watch.com/hls/s3.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1708884910-0-0-0bc2a87389c745b5aa1524c375ec1b07"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1708884852-0-0-7ffc41063991b81e49042a475a35b4df"
   },
   {
    "Name": "English [ HD ]",
@@ -219,7 +153,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
     "HomeName": "Las Palmas",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:00 AM"
   },
   {
@@ -314,7 +248,7 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
+   "Referee": "https://v1.nbastreams100.io/play2.php",
    "Link": "https://v1.nbastreams100.io/index-4.m3u8"
   },
   {
