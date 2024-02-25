@@ -42,7 +42,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -117,7 +117,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -163,36 +163,36 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1708868830-0-0-58fe005c32e0f70f56ab211dbdbe833d"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1708868652-0-0-a2ed001df26b703e91d0bc8151bc0457"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://bongsports.stream/",
+   "Link": "https://flex4.xyz/live/zone-33/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/liga/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1708868830-0-0-58fe005c32e0f70f56ab211dbdbe833d"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1708868652-0-0-a2ed001df26b703e91d0bc8151bc0457"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -218,7 +218,7 @@
              ],
     "HomeImage": "https://i.ibb.co/SrkThSS/download-26.png",
     "HomeName": "Cadiz",
-    "isLive": false,
+    "isLive": true,
     "Time": "7:30 PM"
   },
   {
@@ -258,7 +258,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -324,7 +324,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -390,7 +390,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -531,7 +531,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -597,7 +597,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -663,7 +663,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -739,7 +739,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -805,7 +805,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -871,7 +871,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -946,8 +946,8 @@
   },
   {
    "Name": "Thailand [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8"
+   "Referee": "",
+   "Link": "0"
   },
   {
    "Name": "English [ HD ]",
@@ -1012,7 +1012,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
@@ -1078,7 +1078,7 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://www.dooballfree24hr.com/",
    "Link": "0"
   },
   {
