@@ -106,6 +106,11 @@
    "Link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-74/z4ar-vh9q_720p/chunklist_DVR.m3u8"
   },
   {
+   "Name": "English [ FHD ]",
+   "Referee": "https://watch.ezyproxy.xyz/",
+   "Link": "https://nlsuper.score806.cc/uk_ssfb/index.m3u8"
+  },
+  {
    "Name": "Soco [ HD ]",
    "Referee": "",
    "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=5bf63d6211a1723b6f9f98f0422a51df&txTime=65dba5e6"
@@ -124,6 +129,11 @@
    "Name": "English [ HD ]",
    "Referee": "",
    "Link": "https://ovosssss.lol/live/n-2/chunks.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
+   "Referee": "https://watch.ezyproxy.xyz/",
+   "Link": "https://nlsuper.score806.cc/espn0/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -163,12 +173,12 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1708876930-0-0-a555304b395cb968f2d2094feb1b7464"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-657160_lhd.m3u8?auth_key=1708876872-0-0-edff625dbea221e32d6ab8b92f5d90f4"
   },
   {
    "Name": "English [ FHD ]",
@@ -183,12 +193,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1708876930-0-0-a555304b395cb968f2d2094feb1b7464"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-657160_lsd.m3u8?auth_key=1708876872-0-0-edff625dbea221e32d6ab8b92f5d90f4"
   },
   {
    "Name": "English [ HD ]",
@@ -218,7 +228,7 @@
              ],
     "HomeImage": "https://i.ibb.co/1mg68jB/download-24.png",
     "HomeName": "Real Betis",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:45 PM"
   },
   {
