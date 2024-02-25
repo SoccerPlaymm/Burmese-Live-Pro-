@@ -436,32 +436,32 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=122a2fb66d4cfc3cf09ff1d33089c17e&txTime=65db768e"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708863432-0-0-9180a2b5e9578a16f44709db2c7c8ffc"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://live.damstounas.xyz/hls/it/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://shora-streams.com/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI0IDExOjIxOjExIEFNJmhhc2hfdmFsdWU9R3p1ZTNOQWZUaThYQmlLbDY1aFBPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjE0NyZzdHJtX2xlbj01"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=122a2fb66d4cfc3cf09ff1d33089c17e&txTime=65db768e"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708863432-0-0-9180a2b5e9578a16f44709db2c7c8ffc"
   },
   {
    "Name": "English [ HD ]",
@@ -471,12 +471,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovossss.lol/live/n-4/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_7.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -491,7 +491,7 @@
              ],
     "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
     "HomeName": "Juventus",
-    "isLive": false,
+    "isLive": true,
     "Time": "6:00 AM"
   },
   {
