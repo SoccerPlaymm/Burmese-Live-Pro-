@@ -13,47 +13,47 @@
   {
    "Name": "Soco [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1708870390-0-0-ec979d7bb68d7e22de7f467d2edf3abd"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1708870332-0-0-5c14bfbd131838946490ab369f00083a"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://bongsports.stream/",
+   "Link": "https://flex4.xyz/live/zone-11/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr1/index.m3u8"
   },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1708870390-0-0-ec979d7bb68d7e22de7f467d2edf3abd"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1708870332-0-0-5c14bfbd131838946490ab369f00083a"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_1.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI0IDE6MTc6NDYgUE0maGFzaF92YWx1ZT1GaHQ5eHNFbmNWVUZzbTJ2MnZDb2N3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTcuMTguMjMxLjE5NyZzdHJtX2xlbj01"
+  },
+  {
+   "Name": "English [ HD ]",
+   "Referee": "",
+   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
     "HomeName": "Wolves",
-    "isLive": false,
+    "isLive": true,
     "Time": "8:00 PM"
   }
      
