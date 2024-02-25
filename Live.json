@@ -147,72 +147,6 @@
  "data" : [
    
   {
-    "AwayImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "AwayName": "Inter",
-    "Date": "Feb 25",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1708881430-0-0-7711775ec40a8da260538765f99a028a"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708881252-0-0-9fc6870c0199065e9ce0e5545e99173e"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://v1.nbastreams100.io/play2.php",
-   "Link": "https://v1.nbastreams100.io/index-4.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://techclips.net/",
-   "Link": "https://nflarcadia.xyz/hls/s1.m3u8"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1708881430-0-0-7711775ec40a8da260538765f99a028a"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708881252-0-0-9fc6870c0199065e9ce0e5545e99173e"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://perrzo.com/",
-   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/f0wRMJt/download-56.png",
-    "HomeName": "Lecce",
-    "isLive": true,
-    "Time": "11:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/HqHFbmq/download-43.png",
     "AwayName": "Atalanta",
     "Date": "Feb 26",
@@ -239,7 +173,7 @@
   },
   {
    "Name": "Soco [ HD ]",
-   "Referee": "",
+   "Referee": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=a84dd85316c7b6be28a4abef815527bd&txTime=65dbd7d2",
    "Link": "0"
   },
   {
@@ -288,72 +222,6 @@
  "data" : [
     
  
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
-    "AwayName": "Hoffenheim",
-    "Date": "Feb 25",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1708881370-0-0-8ad3a53c80bbb5390c7988813d10641e"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1708881252-0-0-4e40c557a4148c226c646fe925a7a82e"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://techclips.net/",
-   "Link": "https://reels2watch.com/hls/s4.m3u8"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1708881370-0-0-8ad3a53c80bbb5390c7988813d10641e"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1708881252-0-0-4e40c557a4148c226c646fe925a7a82e"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://www.dooballfree24hr.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/L6tK4v1/download-77.png",
-    "HomeName": "Dortmund",
-    "isLive": true,
-    "Time": "11:00 PM"
-  },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
     "AwayName": "SC Freiburg",
