@@ -429,85 +429,19 @@
  "data" : [
    
   {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
-    "AwayName": "Frosinone",
-    "Date": "Feb 25",
-    "Link": [
-  {
-   "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=122a2fb66d4cfc3cf09ff1d33089c17e&txTime=65db768e"
-  },
-  {
-   "Name": "China [ FHD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708863432-0-0-9180a2b5e9578a16f44709db2c7c8ffc"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://live.damstounas.xyz/hls/it/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://m.soccerinhd.com/",
-   "Link": "https://shora-streams.com/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI0IDExOjIxOjExIEFNJmhhc2hfdmFsdWU9R3p1ZTNOQWZUaThYQmlLbDY1aFBPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuMTExLjQ2LjE0NyZzdHJtX2xlbj01"
-  },
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=122a2fb66d4cfc3cf09ff1d33089c17e&txTime=65db768e"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708863432-0-0-9180a2b5e9578a16f44709db2c7c8ffc"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://ovossss.lol/live/n-4/chunks.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_7.m3u8"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/Xj0bkGg/download-48.png",
-    "HomeName": "Juventus",
-    "isLive": true,
-    "Time": "6:00 AM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/rxJP1dw/download-41.png",
     "AwayName": "Napoli",
     "Date": "Feb 25",
     "Link": [
   {
    "Name": "Soco [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.socolive33.com/",
+   "Link": "https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=ca540e6a3c15ced406ea48a8a929f02d&txTime=65db984e"
   },
   {
    "Name": "China [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1708872132-0-0-3a904c46c84a9ee76c30d86b0d19451b"
   },
   {
    "Name": "English [ FHD ]",
@@ -517,17 +451,17 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI0IDE6NDc6NDQgUE0maGFzaF92YWx1ZT1yc2ZwZEo0L1lUT3lBSjg4Nkg3Qk53PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuMTQ3JnN0cm1fbGVuPTU="
   },
   {
    "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.socolive33.com/",
+   "Link": "https://pull01.rrwes.live/live/stream-486629_lhd.m3u8?txSecret=ca540e6a3c15ced406ea48a8a929f02d&txTime=65db984e"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1708872132-0-0-3a904c46c84a9ee76c30d86b0d19451b"
   },
   {
    "Name": "English [ HD ]",
@@ -537,7 +471,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://ovoss.lol/live/n-4/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -557,7 +491,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
     "HomeName": "Cagliari",
-    "isLive": false,
+    "isLive": true,
     "Time": "8:30 PM"
   },
   {
