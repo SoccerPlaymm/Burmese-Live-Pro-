@@ -163,37 +163,37 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1708970590-0-0-15e0615c4cc436a5a698aca3f356b8e5"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1708970590-0-0-15e0615c4cc436a5a698aca3f356b8e5"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1708970592-0-0-ca606ff2c277048b849cbb5f8be5fb70"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1708970592-0-0-ca606ff2c277048b849cbb5f8be5fb70"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch3.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Link": "https://shora-streams.com/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDI0IDU6MTQ6NDUgUE0maGFzaF92YWx1ZT1MODY0WVhveisreUJsUFczUVRrdDVBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xMTEuNDYuMTQ3JnN0cm1fbGVuPTU="
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossss.lol/live/n-3/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -218,7 +218,7 @@
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
     "HomeName": "Roma",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:00 AM"
   },
   {
