@@ -13,47 +13,47 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1709064970-0-0-2859fecd6dc47f812600e9c63c218855"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1709064970-0-0-2859fecd6dc47f812600e9c63c218855"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-534857_lhd.flv?auth_key=1709064912-0-0-a7a785ce16652f1fad3605cdacb826f2"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-534857_lsd.flv?auth_key=1709064912-0-0-a7a785ce16652f1fad3605cdacb826f2"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://reels2watch.com/hls/s8.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovosss.lol/live/n-1/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://w1.krsistounas.xyz/hls/index.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -68,7 +68,7 @@
              ],
     "HomeImage": "https://i.ibb.co/jfz7Sks/download-5.png",
     "HomeName": "Bournemouth",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   },
   {
@@ -79,22 +79,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-278654_lhd.m3u8?auth_key=1709064970-0-0-7faa36fb496b7b700df556ac8277dc6e"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-278654_lsd.m3u8?auth_key=1709064970-0-0-7faa36fb496b7b700df556ac8277dc6e"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.flv?auth_key=1709064912-0-0-2de7a0f234c5de95d7bf4a76b15f0748"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.flv?auth_key=1709064912-0-0-2de7a0f234c5de95d7bf4a76b15f0748"
   },
   {
    "Name": "English [ FHD ]",
@@ -145,22 +145,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1709065030-0-0-d571d69c60ab24315f8b6fe9de945eb0"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1709065030-0-0-d571d69c60ab24315f8b6fe9de945eb0"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-710099_lhd.flv?auth_key=1709064972-0-0-138c79324fdcf2df72547d52a0e54492"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-710099_lsd.flv?auth_key=1709064972-0-0-138c79324fdcf2df72547d52a0e54492"
   },
   {
    "Name": "English [ FHD ]",
