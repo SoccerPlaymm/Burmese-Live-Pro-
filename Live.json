@@ -99,27 +99,32 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://plstreams100.stream/live/ss200/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovosssssss.lol/live/n-2/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://nflarcadia.xyz/hls/s9.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr1/index.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -134,7 +139,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8655.png",
     "HomeName": "Blackburn",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   },
   {
