@@ -170,27 +170,32 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://v1.nbastreams100.io/index-1.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovos.lol/live/n-3/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch3.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://cdn3.reels2watch.com/hls/s2.m3u8"
+  },
+{
+   "Name": "English [ HD ]",
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr/index.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -205,7 +210,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
     "HomeName": "Luton",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
