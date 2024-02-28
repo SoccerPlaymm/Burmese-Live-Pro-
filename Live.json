@@ -231,27 +231,27 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://cdn.laligastreams100.com/live/ss400/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovoss.lol/live/n-4/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch3.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://reels2watch.com/hls/s7.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -266,7 +266,7 @@
              ],
     "HomeImage": "https://i.ibb.co/T12PsPR/download-3.png",
     "HomeName": "Liverpool",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
