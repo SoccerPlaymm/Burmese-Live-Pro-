@@ -99,27 +99,27 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_3.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://cdn.eplstreams100.com/live/ss300/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossssssssss.lol/live/n-3/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/pr1/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -134,7 +134,7 @@
              ],
     "HomeImage": "https://i.ibb.co/0MyVzRP/download-7.png",
     "HomeName": "Nottm Forest",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   },
   {
@@ -165,27 +165,27 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://cdn3.reels2watch.com/hls/s6.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovoss.lol/live/n-2/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls2/apr2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch4.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -200,7 +200,7 @@
              ],
     "HomeImage": "https://i.ibb.co/QJMLcrP/download-10.png",
     "HomeName": "Wolves",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   },
   {
@@ -306,7 +306,7 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -315,13 +315,13 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/it/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossssssss.lol/live/n-5/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -341,7 +341,7 @@
              ],
     "HomeImage": "https://i.ibb.co/P13TnDX/download-42.png",
     "HomeName": "Inter",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
