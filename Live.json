@@ -38,17 +38,17 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6N2IpjZOaDkwzNd8ZcuGT9pSYNBLyVQgyrxYFthPEpqMOwd8Z0ILwzBRAnQUhIxCNLwv5pacdHTc9Cp3F47p2Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F41%2Findex.m3u8&token=b37240a0a9c2194e1fe95cfd108f7c91e07c8cfc&is_vip=false&verify=1709294400-U1Rl8vApFrqXNUVWl4WgGeODc%2Fe%2BurNoN9wwqDZj058%3D"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F41%2Findex.fmp4.m3u8&token=b37240a0a9c2194e1fe95cfd108f7c91e07c8cfc&is_vip=false&verify=1709294400-U1Rl8vApFrqXNUVWl4WgGeODc%2Fe%2BurNoN9wwqDZj058%3D"
   },
   {
    "Name": "English [ HD ]",
