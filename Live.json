@@ -964,12 +964,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-261808_lhd.m3u8?txSecret=7bbe006fbb70b99eb6112a728fa269c3&txTime=65e386ef"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-261808_lhd.m3u8?txSecret=7bbe006fbb70b99eb6112a728fa269c3&txTime=65e386ef"
   },
   {
    "Name": "China [ HD ]",
@@ -984,21 +984,21 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://live-streamfootball.com"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
+   "Link": "https://hls.streambtw.com/live/stream_11.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
@@ -1019,7 +1019,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
     "HomeName": "VfL Bochum",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
@@ -1030,41 +1030,41 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1709392091-0-0-207ec4343b410d8996c887f22cbc33b0"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1709392091-0-0-207ec4343b410d8996c887f22cbc33b0"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-784735_lhd.flv?auth_key=1709391912-0-0-d33aceb9290c071f6045ca78414b5388"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-784735_lsd.flv?auth_key=1709391912-0-0-d33aceb9290c071f6045ca78414b5388"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_13.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
+   "Name": "English [ HD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
@@ -1085,7 +1085,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8262.png",
     "HomeName": "SV Darmstadt",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
@@ -1096,41 +1096,41 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-346184_lhd.m3u8?auth_key=1709392091-0-0-089cf65d869dce58603851292d52373f"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-346184_lsd.m3u8?auth_key=1709392091-0-0-089cf65d869dce58603851292d52373f"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-765648_lhd.flv?auth_key=1709391912-0-0-5c290ee021bd1d0e7f07632621762bb4"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-765648_lsd.flv?auth_key=1709391912-0-0-5c290ee021bd1d0e7f07632621762bb4"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_12.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
+   "Name": "English [ HD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
@@ -1151,7 +1151,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94937.png",
     "HomeName": "FC Heidenheim",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
@@ -1162,41 +1162,41 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-353417_lhd.m3u8?auth_key=1709392091-0-0-b6faa414645ceb466eef6e8bed339897"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-353417_lsd.m3u8?auth_key=1709392091-0-0-b6faa414645ceb466eef6e8bed339897"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lhd.flv?auth_key=1709391972-0-0-26b3c49c2ce4f7b5d5e209a8cea7addc"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lsd.flv?auth_key=1709391972-0-0-26b3c49c2ce4f7b5d5e209a8cea7addc"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://hls.streambtw.com/live/stream_10.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
+   "Name": "English [ HD ]",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
@@ -1217,7 +1217,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
     "HomeName": "Mainz 05",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
@@ -1228,41 +1228,41 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1709392151-0-0-a6cdd76baccb18a693153cf1d9242d01"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-361284_lsd.m3u8?auth_key=1709392151-0-0-a6cdd76baccb18a693153cf1d9242d01"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-752338_lhd.flv?auth_key=1709391972-0-0-fb182cc9d0bb424e149c309dca70a259"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-752338_lsd.flv?auth_key=1709391972-0-0-fb182cc9d0bb424e149c309dca70a259"
+  },
+  {
+   "Name": "English [ FHD ]",
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F44%2Findex.fmp4.m3u8&token=fa2fce085ce4d1c79eb4cb728016db7224983f6c&is_vip=false&verify=1709380800-Z%2FB1GBRppZrYJCZn0CjAyx%2F%2Brcq5OpgL6bCY2QkHgrE%3D"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_9.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://live-streamfootball.com",
+   "Link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F44%2Findex.m3u8&token=fa2fce085ce4d1c79eb4cb728016db7224983f6c&is_vip=false&verify=1709380800-Z%2FB1GBRppZrYJCZn0CjAyx%2F%2Brcq5OpgL6bCY2QkHgrE%3D"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
+   "Referee": "https://live-streamfootball.com",
    "Link": "0"
   },
   {
@@ -1283,7 +1283,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
     "HomeName": "Union Berlin",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
