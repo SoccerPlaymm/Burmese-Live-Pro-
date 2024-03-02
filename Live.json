@@ -841,52 +841,52 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1709401511-0-0-0298c34a993e4e36b40874448c88b440"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-361284_lsd.m3u8?auth_key=1709401511-0-0-0298c34a993e4e36b40874448c88b440"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-765648_lhd.m3u8?auth_key=1709401513-0-0-5b13057f3cfc83864ef3fd642745f1cb"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-765648_lsd.m3u8?auth_key=1709401513-0-0-5b13057f3cfc83864ef3fd642745f1cb"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://live-streamfootball.com",
-   "Link": "0"
+   "Referee": "https://techclips.net/",
+   "Link": "https://reels2watch.com/hls/s1.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://m.soccerinhd.com/",
+   "Link": "https://live.damstounas.xyz/hls/it/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossssssssss.lol/live/n-8/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "https://live-streamfootball.com",
-   "Link": "0"
+   "Referee": "https://perrzo.com/",
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "https://live-streamfootball.com",
-   "Link": "0"
+   "Referee": "https://hockeyworld.site/",
+   "Link": "https://t4news.live/hls/T5.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -911,7 +911,7 @@
              ],
     "HomeImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "HomeName": "Monza",
-    "isLive": false,
+    "isLive": true,
     "Time": "11:30 PM"
   },
   {
