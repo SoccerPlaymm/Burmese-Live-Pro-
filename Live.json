@@ -517,32 +517,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1709467631-0-0-15d887025708062206e1471b647ffe51"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1709467631-0-0-15d887025708062206e1471b647ffe51"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-702514_lhd.m3u8?auth_key=1709467572-0-0-df5f31e53d56be0ca1ce63ed910f5ce0"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-702514_lsd.m3u8?auth_key=1709467572-0-0-df5f31e53d56be0ca1ce63ed910f5ce0"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://soccer.freesportstime.com/live/stream_7.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://techclips.net/",
-   "Link": ""
+   "Link": "https://cdn3.reels2watch.com/hls/s1.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -552,7 +552,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "0"
+   "Link": "https://ovossssssss.lol/live/n-3/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -562,7 +562,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://m.soccerinhd.com/",
-   "Link": ""
+   "Link": "https://live.damstounas.xyz/hls/it/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -587,7 +587,7 @@
              ],
     "HomeImage": "https://i.ibb.co/wMNphZd/download-49.png",
     "HomeName": "Verona",
-    "isLive": false,
+    "isLive": true,
     "Time": "6:00 PM"
   },
   {
