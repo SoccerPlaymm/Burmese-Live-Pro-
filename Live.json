@@ -33,42 +33,42 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://cdn.eplstreams100.com/live/ss100/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://techclips.net/",
-   "Link": "0"
+   "Link": "https://cdn3.reels2watch.com/hls/s2.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_2.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "0"
+   "Link": "https://ovosssssss.lol/live/n-1/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": "0"
+   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://m.soccerinhd.com/",
-   "Link": "0"
+   "Link": "https://live.damstounas.xyz/hls2/apr/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://bongsports.stream/",
-   "Link": "0"
+   "Link": "https://flex8.xyz/live/zone-11/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://hockeyworld.site/",
-   "Link": "0"
+   "Link": "https://t4news.live/hls/T1.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -77,13 +77,13 @@
   },
   {
    "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://abz.elverruca.art/",
+   "Link": "https://cdnxz.juniorh.lat/live12/live12_today.m3u8"
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
     "HomeName": "Man City",
-    "isLive": false,
+    "isLive": true,
     "Time": "10:00 PM"
   }
      
