@@ -355,22 +355,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=cb3c90984bb3b18d1082aed53f4215d8&txTime=65e4f7d7"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=cb3c90984bb3b18d1082aed53f4215d8&txTime=65e4f7d7"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-705960_lhd.m3u8?auth_key=1709486293-0-0-9c3d7eebc523c97857b1b96b69b8f712"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-705960_lsd.m3u8?auth_key=1709486293-0-0-9c3d7eebc523c97857b1b96b69b8f712"
   },
   {
    "Name": "English [ FHD ]",
@@ -607,27 +607,27 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1709486471-0-0-ef338a70ecdb1a88230285163a32fac3"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1709486471-0-0-ef338a70ecdb1a88230285163a32fac3"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-572503_lhd.m3u8?auth_key=1709486233-0-0-0f5d2f4715f57a83db96bacb75ec7c0a"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-572503_lsd.m3u8?auth_key=1709486233-0-0-0f5d2f4715f57a83db96bacb75ec7c0a"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_9.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -662,7 +662,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://hockeyworld.site/",
-   "Link": "0"
+   "Link": "https://t4news.live/hls/T4.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -677,7 +677,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
     "HomeName": "Hoffenheim",
-    "isLive": false,
+    "isLive": true,
     "Time": "11:00 PM"
   }
   
