@@ -13,32 +13,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=bf44e7b48674b9486854906312ff3a87&txTime=65e4c4bf"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=bf44e7b48674b9486854906312ff3a87&txTime=65e4c4bf"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1709473273-0-0-f647c1b9221528c98700bc3606f748c6"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1709473273-0-0-f647c1b9221528c98700bc3606f748c6"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_1.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://techclips.net/",
-   "Link": ""
+   "Link": "https://nflarcadia.xyz/hls/s2.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -48,12 +48,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "0"
+   "Link": "https://ovosssssssss.lol/live/n-1/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": ""
+   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -67,8 +67,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://hockeyworld.site/",
+   "Link": "https://t4news.live/hls/T1.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -83,7 +83,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
     "HomeName": "Burnley",
-    "isLive": false,
+    "isLive": true,
     "Time": "7:30 PM"
   },
   {
@@ -184,32 +184,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1709473391-0-0-3814468c7a7e67d5a74440f055fd8f55"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1709473391-0-0-3814468c7a7e67d5a74440f055fd8f55"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1709473273-0-0-9e279a19729bcfbd8c6bb37b5932efec"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1709473273-0-0-9e279a19729bcfbd8c6bb37b5932efec"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://techclips.net/",
-   "Link": ""
+   "Link": "https://reels2watch.com/hls/s3.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -219,12 +219,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "0"
+   "Link": "https://ovossssss.lol/live/n-2/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": ""
+   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -238,8 +238,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://hockeyworld.site/",
+   "Link": "https://t4news.live/hls/T7.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -254,7 +254,7 @@
              ],
     "HomeImage": "https://i.ibb.co/7Vsf3Tg/download-21.png",
     "HomeName": "Villarreal",
-    "isLive": false,
+    "isLive": true,
     "Time": "7:30 PM"
   },
   {
