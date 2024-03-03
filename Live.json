@@ -527,12 +527,12 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-702514_lhd.flv?auth_key=1709476813-0-0-b148b2ed5f3adfb6028103361d6be695"
+   "Link": "https://pull.juqihuo.com/live/stream-702514_lhd.m3u8?auth_key=1709476813-0-0-b148b2ed5f3adfb6028103361d6be695"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-702514_lsd.flv?auth_key=1709476813-0-0-b148b2ed5f3adfb6028103361d6be695"
+   "Link": "https://pull.juqihuo.com/live/stream-702514_lsd.m3u8?auth_key=1709476813-0-0-b148b2ed5f3adfb6028103361d6be695"
   },
   {
    "Name": "English [ FHD ]",
@@ -608,12 +608,12 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-658764_lhd.flv?auth_key=1709476813-0-0-ad4944d4ca721e038b587f61c4591144"
+   "Link": "https://pull.juqihuo.com/live/stream-658764_lhd.m3u8?auth_key=1709476813-0-0-ad4944d4ca721e038b587f61c4591144"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-658764_lsd.flv?auth_key=1709476813-0-0-ad4944d4ca721e038b587f61c4591144"
+   "Link": "https://pull.juqihuo.com/live/stream-658764_lsd.m3u8?auth_key=1709476813-0-0-ad4944d4ca721e038b587f61c4591144"
   },
   {
    "Name": "English [ FHD ]",
@@ -850,32 +850,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1709478971-0-0-24c896234965b1790e5ecb756817d940"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1709478971-0-0-24c896234965b1790e5ecb756817d940"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-531165_lhd.m3u8?auth_key=1709478793-0-0-ee57b38949418255448e3979f96b9732"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-531165_lsd.m3u8?auth_key=1709478793-0-0-ee57b38949418255448e3979f96b9732"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_9.m3u8"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://techclips.net/",
-   "Link": ""
+   "Link": "https://cdn3.reels2watch.com/hls/s4.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -904,8 +904,8 @@
   },
   {
    "Name": "English [ HD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://hockeyworld.site/",
+   "Link": "https://t4news.live/hls/T4.m3u8"
   },
  {
    "Name": "English [ SD ]",
@@ -920,7 +920,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
     "HomeName": "Koln",
-    "isLive": false,
+    "isLive": true,
     "Time": "9:00 PM"
   },
   {
