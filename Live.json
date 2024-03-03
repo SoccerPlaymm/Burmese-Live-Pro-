@@ -860,27 +860,27 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1709484611-0-0-ad4e17f695592f9455fc3f76ca2680e8"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-448539_lsd.m3u8?auth_key=1709484611-0-0-ad4e17f695592f9455fc3f76ca2680e8"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1709484552-0-0-62e9a341b8227557728c7c1a4dbd19b9"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1709484552-0-0-62e9a341b8227557728c7c1a4dbd19b9"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_8.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -895,7 +895,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "0"
+   "Link": "https://ovosssss.lol/live/n-5/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -930,7 +930,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
     "HomeName": "Rennes",
-    "isLive": false,
+    "isLive": true,
     "Time": "10:35 PM"
   },
   {
