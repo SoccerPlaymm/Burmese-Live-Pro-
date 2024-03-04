@@ -31,7 +31,7 @@
    "Link": "https://pull.juqihuo.com/live/stream-2376781_lsd.flv?auth_key=1709584152-0-0-f1c049ce9de10af5923418c168c5fb1e"
   },
   {
-   "Name": "English [ FHD ]",
+   "Name": "USA Network [ FHD ]",
    "Referee": "",
    "Link": "https://sportsleading.online/live/stream_1.m3u8"
   },
@@ -46,7 +46,7 @@
    "Link": "https://gelive.score806.cc/uk_ssepl/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "USA Network [ HD ]",
    "Referee": "https://linecrystal.com/",
    "Link": "https://ovoss.lol/live/n-1/chunks.m3u8"
   },
@@ -61,7 +61,7 @@
    "Link": "0"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "USA Network [ HD ]",
    "Referee": "https://bongsports.stream/",
    "Link": "https://flex7.xyz/live/zone-11/chunks.m3u8"
   },
@@ -76,9 +76,9 @@
    "Link": "0"
   },
   {
-   "Name": "English [ SD ]",
+   "Name": "Test [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pv10.soft4game.com/o51a/stream278/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjQgODowMDowMCBQTSZoYXNoX3ZhbHVlPVVlWjY0K3A1djVseTBxMVpxNjl3Vmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTU="
   }
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
