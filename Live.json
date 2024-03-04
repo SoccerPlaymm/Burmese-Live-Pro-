@@ -103,27 +103,27 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3a8f9aeeece4fadb5d4f10a6096597da&txTime=65e64156"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3a8f9aeeece4fadb5d4f10a6096597da&txTime=65e64156"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1709570772-0-0-12d160a710e9bfe9440c4eb695306fff"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1709570772-0-0-12d160a710e9bfe9440c4eb695306fff"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_5.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -143,7 +143,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": "0"
+   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -173,7 +173,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102117.png",
     "HomeName": "Al-Ain",
-    "isLive": false,
+    "isLive": true,
     "Time": "10:30 PM"
   }
      
