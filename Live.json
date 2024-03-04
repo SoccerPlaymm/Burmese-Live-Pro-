@@ -10,6 +10,11 @@
     "AwayName": "Arsenal",
     "Date": "Mar 05",
     "Link": [
+    {
+   "Name": "Vietnam [ HD ]",
+   "Referee": "https://xem.bdhub.xyz/",
+   "Link": "https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may1HD/playlist.m3u8"
+  },
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
@@ -46,7 +51,7 @@
    "Link": "https://gelive.score806.cc/uk_ssepl/index.m3u8"
   },
   {
-   "Name": "USA Network [ HD ]",
+   "Name": "Super Sports - PL [ HD ]",
    "Referee": "https://linecrystal.com/",
    "Link": "https://ovoss.lol/live/n-1/chunks.m3u8"
   },
@@ -64,11 +69,6 @@
    "Name": "USA Network [ HD ]",
    "Referee": "https://bongsports.stream/",
    "Link": "https://flex7.xyz/live/zone-11/chunks.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://autonewsmedia.site/",
-   "Link": "https://bestcyclingnews.xyz/hls/Z1.m3u8"
   },
  {
    "Name": "English [ SD ]",
