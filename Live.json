@@ -52,6 +52,16 @@
   },
   {
    "Name": "English [ HD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://hdmatch.club/streams/80762.m3u8"
+  },
+  {
+   "Name": "Italy [ HD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://hdmatch.club/streams/80766.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
    "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
   },
@@ -82,8 +92,8 @@
   },
   {
    "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "0"
+   "Referee": "https://hdmatch.club/",
+   "Link": ""
   }
              ],
     "HomeImage": "https://i.ibb.co/v4DMkVK/download-2.png",
@@ -138,6 +148,16 @@
   },
   {
    "Name": "English [ HD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://hdmatch.club/streams/80768.m3u8"
+  },
+  {
+   "Name": "French [ HD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://hdmatch.club/streams/80769.m3u8"
+  },
+  {
+   "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
    "Link": "https://ovossss.lol/live/n-2/chunks.m3u8"
   },
@@ -173,7 +193,7 @@
   },
   {
    "Name": "English [ SD ]",
-   "Referee": "",
+   "Referee": "https://hdmatch.club/",
    "Link": "0"
   }
              ],
