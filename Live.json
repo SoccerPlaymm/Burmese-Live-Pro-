@@ -32,8 +32,8 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_1.m3u8"
+   "Referee": "https://acdsport.com/",
+   "Link": "https://us.score806.cc/paramount1/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -41,14 +41,14 @@
    "Link": "https://gelive.score806.cc/uk_bts1/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://cdn.leaguestreams100.com/live/ss100/chunks.m3u8"
+   "Name": "China [ FHD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://play.aomeila.cn/live/hd-zh-dj2ryoh1go1eq1z.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
+   "Link": "0"
   },
   {
    "Name": "English [ HD ]",
@@ -63,7 +63,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": "https://katanaboss.online/chunklist/hlsch1.m3u8"
+   "Link": "0"
   },
   {
    "Name": "English [ HD ]",
@@ -78,7 +78,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://bongsports.stream/",
-   "Link": "https://flex6.xyz/live/zone-11/chunks.m3u8"
+   "Link": "0"
   },
   {
    "Name": "Portugal [ HD ]",
@@ -86,9 +86,9 @@
    "Link": "https://gelive.score806.cc/pt_elevensport2/index.m3u8"
   },
  {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
+   "Name": "China [ SD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://play.aomeila.cn/live/sd-dj2ryoh1go1eq1z.m3u8"
   },
   {
    "Name": "English [ SD ]",
@@ -127,9 +127,9 @@
    "Link": "https://pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1709756412-0-0-e4556bb27dc04b5e9a61f307b21d5973"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_2.m3u8"
+   "Name": "French [ FHD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://hdmatch.club/streams/80772.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -137,9 +137,9 @@
    "Link": "https://gelive.score806.cc/uk_bts2/index.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://cdn.laligastreams100.com/live/ss200/chunks.m3u8"
+   "Name": "China [ FHD ]",
+   "Referee": "https://hdmatch.club/",
+   "Link": "https://play.aomeila.cn/live/hd-zh-2y8m4zh68o66ql0.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -159,12 +159,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://linecrystal.com/",
-   "Link": "https://ovossss.lol/live/n-2/chunks.m3u8"
+   "Link": "0"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://perrzo.com/",
-   "Link": "https://katanaboss.online/chunklist/hlsch2.m3u8"
+   "Link": "0"
   },
   {
    "Name": "English [ HD ]",
@@ -179,7 +179,7 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://bongsports.stream/",
-   "Link": "https://flex1.xyz/live/zone-22/chunks.m3u8"
+   "Link": "0"
   },
   {
    "Name": "Portugal [ HD ]",
