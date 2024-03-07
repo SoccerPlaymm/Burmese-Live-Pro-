@@ -103,32 +103,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=cece73dffc31dac8cd53c2d8e5285db6&txTime=65ea4ab2"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=cece73dffc31dac8cd53c2d8e5285db6&txTime=65ea4ab2"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-306929_lhd.flv?auth_key=1709835312-0-0-a5af59464f0e7e5ea70077f00d16232c"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-306929_lsd.flv?auth_key=1709835312-0-0-a5af59464f0e7e5ea70077f00d16232c"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/us_cbssportsnetwork/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossssss.lol/live/n-3/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -138,17 +138,17 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts4/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount3/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_sporttv5/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -173,7 +173,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
     "HomeName": "Qarabag FK",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -184,32 +184,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1709835362-0-0-3e9f0d4f1942a0420122fde40a09203c"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1709835362-0-0-3e9f0d4f1942a0420122fde40a09203c"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-696163_lhd.flv?auth_key=1709835252-0-0-ac039c67a3f490694b0ebdef4e745dbb"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-696163_lsd.flv?auth_key=1709835252-0-0-ac039c67a3f490694b0ebdef4e745dbb"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount2/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovosss.lol/live/n-2/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -219,12 +219,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts2/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_sporttv2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -254,7 +254,7 @@
              ],
     "HomeImage": "https://i.ibb.co/1mDqD0w/download-55.png",
     "HomeName": "Roma",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
@@ -265,32 +265,32 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=5aa549624b589ba1121168ab6076ccf7&txTime=65ea4ab2"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=5aa549624b589ba1121168ab6076ccf7&txTime=65ea4ab2"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.flv?auth_key=1709835192-0-0-d985e2b4eb5c1c593e05c8eff06f71d1"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.flv?auth_key=1709835192-0-0-d985e2b4eb5c1c593e05c8eff06f71d1"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount1/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossss.lol/live/n-1/chunks.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -300,12 +300,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts1/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_sporttv1/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -335,7 +335,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10247.png",
     "HomeName": "Sparta Prague",
-    "isLive": false,
+    "isLive": true,
     "Time": "12:15 AM"
   },
   {
