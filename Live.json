@@ -14,22 +14,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1709920923-0-0-cf60d7ac95236b37bd65b2f2a02c237a"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1709920923-0-0-cf60d7ac95236b37bd65b2f2a02c237a"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1709914813-0-0-87b197072187560ef2f88549359b7bb6"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1709914813-0-0-87b197072187560ef2f88549359b7bb6"
   },
   {
    "Name": "English [ FHD ]",
@@ -38,13 +38,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://sportsleading.online/live/stream_6.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
+   "Name": "English [ HD ]",
+   "Referee": "https://linecrystal.com//",
+   "Link": "https://ovossssss.lol/live/n-1/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -84,7 +84,7 @@
              ],
     "HomeImage": "https://i.ibb.co/jh44yWL/download-66.png",
     "HomeName": "Barcelona",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
@@ -104,22 +104,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1709915043-0-0-cb3d1773c1068090c2bbff8e4292706a"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1709915043-0-0-cb3d1773c1068090c2bbff8e4292706a"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1709920873-0-0-e85797f80b70323ae47a29915996188c"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1709920873-0-0-e85797f80b70323ae47a29915996188c"
   },
   {
    "Name": "English [ FHD ]",
@@ -128,13 +128,13 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
-   "Name": "English [ FHD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
+   "Name": "English [ HD ]",
+   "Referee": "https://linecrystal.com/",
+   "Link": "https://ovossssss.lol/live/n-2/chunks.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -174,7 +174,7 @@
              ],
     "HomeImage": "https://i.ibb.co/rxJP1dw/download-41.png",
     "HomeName": "Napoli",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
      
@@ -194,22 +194,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4ac9afa9e53cae51db67a3b66c7ea811&txTime=65eb81f3"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4ac9afa9e53cae51db67a3b66c7ea811&txTime=65eb81f3"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1709914812-0-0-47e176ed5735fc0aac39bb2028c4dac6"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1709914812-0-0-47e176ed5735fc0aac39bb2028c4dac6"
   },
   {
    "Name": "English [ FHD ]",
@@ -218,8 +218,8 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://sportsleading.online/live/stream_8.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -264,7 +264,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
     "HomeName": "VfB Stuttgart",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:00 AM"
   }
   
@@ -285,12 +285,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1709915103-0-0-a279c4a6005e9b71bed78f7e395ff3ea"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1709915103-0-0-a279c4a6005e9b71bed78f7e395ff3ea"
   },
   {
    "Name": "China [ HD ]",
@@ -309,8 +309,8 @@
   },
   {
    "Name": "English [ FHD ]",
-   "Referee": "https://watch.ezyproxy.xyz/",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://hls.streambtw.com/live/stream_10.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -355,7 +355,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
     "HomeName": "Nice",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
