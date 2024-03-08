@@ -34,7 +34,7 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/fr_beinsports1/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -49,17 +49,17 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_viaplay1/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "French [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/fr_beinsports1/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_elevensport1/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -295,17 +295,17 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1709930593-0-0-936eeeddaaff863138f8935bd35e57bf"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1709930593-0-0-936eeeddaaff863138f8935bd35e57bf"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts3/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -318,9 +318,9 @@
    "Link": "0"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_elevensport4/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
