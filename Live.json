@@ -592,168 +592,6 @@
  "data" : [
    
   {
-    "AwayImage": "https://i.ibb.co/dkf4cTv/download-54.png",
-    "AwayName": "Salernitana",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-261808_lhd.m3u8?txSecret=6c3cc9f87a1c7ff546186d0de93a6de7&txTime=65ecbb4f"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-261808_lhd.m3u8?txSecret=6c3cc9f87a1c7ff546186d0de93a6de7&txTime=65ecbb4f"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-767255_lhd.m3u8?auth_key=1709995094-0-0-13091a7a86fd7ce6839646533dfd8da1"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-767255_lsd.m3u8?auth_key=1709995094-0-0-13091a7a86fd7ce6839646533dfd8da1"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_4.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/paramount1/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
-    "HomeName": "Cagliari",
-    "isLive": true,
-    "Time": "8:30 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
-    "AwayName": "Frosinone",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1709995263-0-0-4f90908d1ee280b33bea9339ff5ddbd2"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1709995263-0-0-4f90908d1ee280b33bea9339ff5ddbd2"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-657160_lhd.m3u8?auth_key=1709995093-0-0-a52d9c79ba538359938c8a357fdb0ec2"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-657160_lsd.m3u8?auth_key=1709995093-0-0-a52d9c79ba538359938c8a357fdb0ec2"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_7.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/paramount2/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
-    "HomeName": "Sassuolo",
-    "isLive": true,
-    "Time": "8:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/P13TnDX/download-42.png",
     "AwayName": "Inter",
     "Date": "Mar 09",
@@ -761,27 +599,27 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912077_lhd.m3u8?txSecret=ab7a3f13666f89190ed31aa16c2d260d&txTime=65ece66f"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-9912077_lhd.m3u8?txSecret=ab7a3f13666f89190ed31aa16c2d260d&txTime=65ece66f"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1710006313-0-0-4dff84774dcaef24d53969b286a97b75"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1710006313-0-0-4dff84774dcaef24d53969b286a97b75"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount3/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -796,12 +634,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_sporttv5/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -831,7 +669,7 @@
              ],
     "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
     "HomeName": "Bologna",
-    "isLive": false,
+    "isLive": true,
     "Time": "11:30 PM"
   },
   {
@@ -924,330 +762,6 @@
  "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
  "data" : [
     
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
-    "AwayName": "Mainz 05",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=8eaf70e33b4ee862ec30786ba36b4889&txTime=65ecc257"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=8eaf70e33b4ee862ec30786ba36b4889&txTime=65ecc257"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1709996893-0-0-51bddba4bd6470bd19651c5aabbe86c8"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1709996893-0-0-51bddba4bd6470bd19651c5aabbe86c8"
-  },
-  {
-   "Name": "ESPN [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/espn0/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_9.m3u8"
-  },
-  {
-   "Name": "Super Sport [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_ssfb/index.m3u8"
-  },
-  {
-   "Name": "Eleven [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_elevensport3/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/D46m1WD/download-65.png",
-    "HomeName": "Bayern",
-    "isLive": true,
-    "Time": "9:00 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
-    "AwayName": "Koln",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=a0441e4c83cde51b04d0576ceca1e005&txTime=65ecc293"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=a0441e4c83cde51b04d0576ceca1e005&txTime=65ecc293"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-658764_lhd.m3u8?auth_key=1709996953-0-0-d861eaacfc43e1ca1f9e5050c4d4157d"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-658764_lsd.m3u8?auth_key=1709996953-0-0-d861eaacfc43e1ca1f9e5050c4d4157d"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/espn2/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_11.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/de_skybundes4/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
-    "HomeName": "M'gladbach",
-    "isLive": true,
-    "Time": "9:00 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94937.png",
-    "AwayName": "FC Heidenheim",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1709997063-0-0-483cd9515f3328f38f1efd040c51ffa4"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-336303_lsd.m3u8?auth_key=1709997063-0-0-483cd9515f3328f38f1efd040c51ffa4"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-697889_lhd.m3u8?auth_key=1709996893-0-0-c625c0797b458e9093478a6374f1fd41"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-697889_lsd.m3u8?auth_key=1709996893-0-0-c625c0797b458e9093478a6374f1fd41"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/espn3/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_12.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/de_skybundes5/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
-    "HomeName": "Augsburg",
-    "isLive": true,
-    "Time": "9:00 PM"
-  },
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8262.png",
-    "AwayName": "SV Darmstadt",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912062_lhd.m3u8?txSecret=d703230a40cfdcf22e34d14dd6ef91d2&txTime=65ecc293"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912062_lhd.m3u8?txSecret=d703230a40cfdcf22e34d14dd6ef91d2&txTime=65ecc293"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-744823_lhd.m3u8?auth_key=1709996953-0-0-bc506f9ad678b8dd4ff8ee0b9c8172a9"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-744823_lsd.m3u8?auth_key=1709996953-0-0-bc506f9ad678b8dd4ff8ee0b9c8172a9"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/espn1/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://hls.streambtw.com/live/stream_10.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/de_skybundes3/index.m3u8"
-  },
-  {
-   "Name": "Portugal [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_elevensport4/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/HdHxByy/download-76.png",
-    "HomeName": "RB Leipzig",
-    "isLive": true,
-    "Time": "9:00 PM"
-  },
   {
     "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
     "AwayName": "Dortmund",
