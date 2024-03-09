@@ -2,181 +2,10 @@
 
   
      {
- "League" : "Premier League",
- "Image" : "https://ssl.gstatic.com/onebox/media/sports/logos/5D811WOqeV3SRG6qt-DDPA_96x96.png",
- "data" : [
- 
-  {
-    "AwayImage": "https://i.ibb.co/gzBVDwK/download-18.png",
-    "AwayName": "Brentford",
-    "Date": "Mar 10",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=50a063968ddb3220e5c7dcedb9ae8e58&txTime=65eceb97"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=50a063968ddb3220e5c7dcedb9ae8e58&txTime=65eceb97"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1710007453-0-0-f4b9ab227ed01b530253d3419a936785"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1710007453-0-0-f4b9ab227ed01b530253d3419a936785"
-  },
-  {
-   "Name": "Peacock [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/epl_ars/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "https://ovos.lol/live/n-1/chunks.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_1.m3u8"
-  },
-  {
-   "Name": "Sky Sport EPL[ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_ssepl/index.m3u8"
-  },
-  {
-   "Name": "Eleven [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_elevensport1/index.m3u8"
-  },
-  {
-   "Name": "Sky Sport EPL [ HD ]",
-   "Referee": "",
-   "Link": "https://plstreams100.stream/live/ss100/chunks.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "",
-   "Link": "https://pv10.soft4game.com/o51a/stream278/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjQgNTowMDowMCBQTSZoYXNoX3ZhbHVlPUw4Q2tCMTlmT25oejhsWjRJV0FPZ3c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTU="
-  }
-             ],
-    "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
-    "HomeName": "Arsenal",
-    "isLive": true,
-    "Time": "12:00 AM"
-  }
-     
-     ]
-     
- },
- {
  "League" : "LaLiga",
  "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
  "data" : [
     
-  {
-    "AwayImage": "https://i.ibb.co/Px76w8v/download-27.png",
-    "AwayName": "Real Sociedad",
-    "Date": "Mar 10",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1710007623-0-0-9352e1591d9062a68e9937fd1fb4c989"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1710007623-0-0-9352e1591d9062a68e9937fd1fb4c989"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1710007513-0-0-2ba9a4a67aabe0edd9e8b563f4756807"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1710007513-0-0-2ba9a4a67aabe0edd9e8b563f4756807"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_premiersports1/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "https://ovossssss.lol/live/n-4/chunks.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_6.m3u8"
-  },
-  {
-   "Name": "Viaplay [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_viaplay2/index.m3u8"
-  },
-  {
-   "Name": "Eleven [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_elevensport3/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-    "HomeName": "Granada",
-    "isLive": true,
-    "Time": "12:00 AM"
-  },
   {
     "AwayImage": "https://i.ibb.co/mTH2ByB/download-28.png",
     "AwayName": "Osasuna",
@@ -185,22 +14,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1710016023-0-0-1a1b4cd1982a306d491b2cc3708ef2a2"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1710016023-0-0-1a1b4cd1982a306d491b2cc3708ef2a2"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lhd.m3u8?auth_key=1710015913-0-0-f0d60e5b0c97285851084a32903b2d56"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-637513_lsd.m3u8?auth_key=1710015913-0-0-f0d60e5b0c97285851084a32903b2d56"
   },
   {
    "Name": "English [ FHD ]",
@@ -268,87 +97,6 @@
  "data" : [
    
   {
-    "AwayImage": "https://i.ibb.co/P13TnDX/download-42.png",
-    "AwayName": "Inter",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912077_lhd.m3u8?txSecret=ab7a3f13666f89190ed31aa16c2d260d&txTime=65ece66f"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niur.live/live/stream-9912077_lhd.m3u8?txSecret=ab7a3f13666f89190ed31aa16c2d260d&txTime=65ece66f"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1710006313-0-0-4dff84774dcaef24d53969b286a97b75"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-552917_lsd.m3u8?auth_key=1710006313-0-0-4dff84774dcaef24d53969b286a97b75"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/paramount3/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_bts2/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_sporttv5/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://www.soccer24.com/res/image/data/j3Tyh1GG-bucnXust.png",
-    "HomeName": "Bologna",
-    "isLive": true,
-    "Time": "11:30 PM"
-  },
-  {
     "AwayImage": "https://i.ibb.co/0mCdqDz/download-50.png",
     "AwayName": "Monza",
     "Date": "Mar 10",
@@ -356,27 +104,27 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1710015963-0-0-4a1486e60339062b5137f04b8a530c7d"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-336303_lsd.m3u8?auth_key=1710015963-0-0-4a1486e60339062b5137f04b8a530c7d"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1710015853-0-0-d4dc72b388d84b7837919d7d86a44a14"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1710015853-0-0-d4dc72b388d84b7837919d7d86a44a14"
   },
   {
    "Name": "English [ FHD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/uk_bts2/index.m3u8"
   },
   {
    "Name": "English [ FHD ]",
@@ -391,12 +139,12 @@
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount4/index.m3u8"
   },
   {
-   "Name": "English [ HD ]",
+   "Name": "Portugal [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://gelive.score806.cc/pt_sporttv4/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -426,100 +174,9 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
     "HomeName": "Genoa",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:15 AM"
   }
-     
-     ]
-     
- },
- {
- "League" : "Bundesliga",
- "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
- "data" : [
-    
-  {
-    "AwayImage": "https://i.ibb.co/L6tK4v1/download-77.png",
-    "AwayName": "Dortmund",
-    "Date": "Mar 10",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1710007563-0-0-68f44e993f49cb97a0d7087ab944ace3"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1710007563-0-0-68f44e993f49cb97a0d7087ab944ace3"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1710007573-0-0-95fdd37bf583f0ea7dca64ef55b42e6d"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1710007573-0-0-95fdd37bf583f0ea7dca64ef55b42e6d"
-  },
-  {
-   "Name": "ESPN [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://us.score806.cc/espn0/index.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "https://ovossssssssss.lol/live/n-8/chunks.m3u8"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_9.m3u8"
-  },
-  {
-   "Name": "Sky Sport FB [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/uk_ssfb/index.m3u8"
-  },
-  {
-   "Name": "Eleven [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "https://gelive.score806.cc/pt_elevensport2/index.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
-    "HomeName": "Werder",
-    "isLive": true,
-    "Time": "12:00 AM"
-  }
-  
      
      ]
      
@@ -529,87 +186,6 @@
  "Image" : "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
  "data" : [
     
-  {
-    "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-    "AwayName": "Lyon",
-    "Date": "Mar 09",
-    "Link": [
-  {
-   "Name": "Soco [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1710002823-0-0-cdff8a3e11490651a75357d82428591e"
-  },
-  {
-   "Name": "Soco [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1710002823-0-0-cdff8a3e11490651a75357d82428591e"
-  },
-  {
-   "Name": "China [ HD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1710002773-0-0-7d2a07966ce43ea1c500926341b3f3cc"
-  },
-  {
-   "Name": "China [ SD ]",
-   "Referee": "",
-   "Link": "https://pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1710002773-0-0-7d2a07966ce43ea1c500926341b3f3cc"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "https://linecrystal.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ FHD ]",
-   "Referee": "",
-   "Link": "https://sportsleading.online/live/stream_8.m3u8"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ HD ]",
-   "Referee": "https://hdmatch.club/",
-   "Link": "0"
-  },
- {
-   "Name": "English [ SD ]",
-   "Referee": "https://play2.score808pro.com/",
-   "Link": "0"
-  },
-  {
-   "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
-  }
-             ],
-    "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-    "HomeName": "Lorient",
-    "isLive": true,
-    "Time": "10:30 PM"
-  },
   {
     "AwayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
     "AwayName": "Brest",
@@ -628,12 +204,12 @@
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-886731_lhd.m3u8?auth_key=1710015913-0-0-325f9dfd7c0c4796dcf83b8e10a3ab45"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-886731_lsd.m3u8?auth_key=1710015913-0-0-325f9dfd7c0c4796dcf83b8e10a3ab45"
   },
   {
    "Name": "English [ FHD ]",
