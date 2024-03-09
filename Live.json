@@ -84,7 +84,7 @@
              ],
     "HomeImage": "https://i.ibb.co/THrGZYk/download-37.png",
     "HomeName": "Girona",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
@@ -194,12 +194,12 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-269858_lhd.m3u8?auth_key=1710016563-0-0-300496e3e4bad760cd867d2e0f9a37ef"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-269858_lsd.m3u8?auth_key=1710016563-0-0-300496e3e4bad760cd867d2e0f9a37ef"
   },
   {
    "Name": "China [ HD ]",
@@ -264,7 +264,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
     "HomeName": "Lens",
-    "isLive": false,
+    "isLive": true,
     "Time": "2:30 AM"
   }
      
