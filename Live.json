@@ -761,22 +761,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-261808_lhd.m3u8?txSecret=6c3cc9f87a1c7ff546186d0de93a6de7&txTime=65ecbb4f"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niur.live/live/stream-261808_lhd.m3u8?txSecret=6c3cc9f87a1c7ff546186d0de93a6de7&txTime=65ecbb4f"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-767255_lhd.m3u8?auth_key=1709995094-0-0-13091a7a86fd7ce6839646533dfd8da1"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-767255_lsd.m3u8?auth_key=1709995094-0-0-13091a7a86fd7ce6839646533dfd8da1"
   },
   {
    "Name": "English [ FHD ]",
@@ -791,12 +791,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_4.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount1/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -831,7 +831,7 @@
              ],
     "HomeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
     "HomeName": "Cagliari",
-    "isLive": false,
+    "isLive": true,
     "Time": "8:30 PM"
   },
   {
@@ -842,22 +842,22 @@
   {
    "Name": "Soco [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1709995263-0-0-4f90908d1ee280b33bea9339ff5ddbd2"
   },
   {
    "Name": "Soco [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1709995263-0-0-4f90908d1ee280b33bea9339ff5ddbd2"
   },
   {
    "Name": "China [ HD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-657160_lhd.m3u8?auth_key=1709995093-0-0-a52d9c79ba538359938c8a357fdb0ec2"
   },
   {
    "Name": "China [ SD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://pull.juqihuo.com/live/stream-657160_lsd.m3u8?auth_key=1709995093-0-0-a52d9c79ba538359938c8a357fdb0ec2"
   },
   {
    "Name": "English [ FHD ]",
@@ -872,12 +872,12 @@
   {
    "Name": "English [ FHD ]",
    "Referee": "",
-   "Link": "0"
+   "Link": "https://sportsleading.online/live/stream_7.m3u8"
   },
   {
    "Name": "English [ HD ]",
    "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Link": "https://us.score806.cc/paramount2/index.m3u8"
   },
   {
    "Name": "English [ HD ]",
@@ -912,7 +912,7 @@
              ],
     "HomeImage": "https://i.ibb.co/ZN6PsyW/download-45.png",
     "HomeName": "Sassuolo",
-    "isLive": false,
+    "isLive": true,
     "Time": "8:30 PM"
   },
   {
