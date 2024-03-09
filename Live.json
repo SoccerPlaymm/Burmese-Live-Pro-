@@ -32,7 +32,7 @@
    "Link": "https://pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1710007453-0-0-f4b9ab227ed01b530253d3419a936785"
   },
   {
-   "Name": "USA Network [ FHD ]",
+   "Name": "Peacock [ FHD ]",
    "Referee": "https://acdsport.com/",
    "Link": "https://gelive.score806.cc/epl_ars/index.m3u8"
   },
@@ -78,8 +78,8 @@
   },
   {
    "Name": "English [ SD ]",
-   "Referee": "https://acdsport.com/",
-   "Link": "0"
+   "Referee": "",
+   "Link": "https://pv10.soft4game.com/o51a/stream278/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjQgNTowMDowMCBQTSZoYXNoX3ZhbHVlPUw4Q2tCMTlmT25oejhsWjRJV0FPZ3c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTU="
   }
              ],
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
