@@ -1,0 +1,48 @@
+[
+{
+    "homeAd1Link": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
+    
+    "homeAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
+    
+    "homeAd1is_Open" : true,
+    
+    "homeAd2Link": "https://bit.ly/3puNhuz",
+    
+    "homeAd2Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-9b1e5bfb29538382b9b62a10e646b40d.gif",
+    
+    "homeAd2is_Open" : true,
+    
+    "linkAdLink": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
+    
+    "linkAdImage": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/500x200.gif",
+    
+    "linkAdis_Open" : true,
+    
+    "dialogAd1Link": "https://bit.ly/47iy68f",
+    
+    "dialogAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-30099df8d1336ff4f3f307b33f8eae68.gif",
+    
+    "dialogAd1is_Open" : true,
+    
+    "dialogAd2Link": "https://bit.ly/47iy68f",
+    
+    "dialogAd2Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-30099df8d1336ff4f3f307b33f8eae68.gif",
+    
+    "dialogAd2is_Open" : true,
+    
+    "streamAd" : [
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
+       "AdLink" : "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration"
+    },
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/GIF-9b1e5bfb29538382b9b62a10e646b40d.gif",
+       "AdLink" : "https://bit.ly/3puNhuz"
+    },
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600X200 GIF .gif",
+       "AdLink" : "https://cutt.ly/Aw7eUWVO"
+    }
+     ]
+}
+]
