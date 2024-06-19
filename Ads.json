@@ -32,11 +32,11 @@
     
     "streamAd" : [
     { 
-       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-600x200.gif",
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
        "AdLink" : "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration"
     },
     { 
-       "AdImage" : "https://github.com/SoccerPlaymm/ads/blob/main/600x200-BLIVE.gif?raw=true",
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-600x200.gif",
        "AdLink" : "https://love580.vip/ykbxdgMM"
     }
      ]
